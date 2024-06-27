@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\NumbersFromNto1\NumbersFromNto1\bin\Debug\net8.0\NumbersFromNto1.exe
+C:\Users\ninag\RiderProjects\NumbersFromNto1\NumbersFromNto1\bin\Debug\net8.0\NumbersFromNto1.deps.json
+C:\Users\ninag\RiderProjects\NumbersFromNto1\NumbersFromNto1\bin\Debug\net8.0\NumbersFromNto1.runtimeconfig.json
+C:\Users\ninag\RiderProjects\NumbersFromNto1\NumbersFromNto1\bin\Debug\net8.0\NumbersFromNto1.dll
+C:\Users\ninag\RiderProjects\NumbersFromNto1\NumbersFromNto1\bin\Debug\net8.0\NumbersFromNto1.pdb
+C:\Users\ninag\RiderProjects\NumbersFromNto1\NumbersFromNto1\obj\Debug\net8.0\NumbersFromNto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\NumbersFromNto1\NumbersFromNto1\obj\Debug\net8.0\NumbersFromNto1.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\NumbersFromNto1\NumbersFromNto1\obj\Debug\net8.0\NumbersFromNto1.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\NumbersFromNto1\NumbersFromNto1\obj\Debug\net8.0\NumbersFromNto1.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\NumbersFromNto1\NumbersFromNto1\obj\Debug\net8.0\NumbersFromNto1.dll
+C:\Users\ninag\RiderProjects\NumbersFromNto1\NumbersFromNto1\obj\Debug\net8.0\refint\NumbersFromNto1.dll
+C:\Users\ninag\RiderProjects\NumbersFromNto1\NumbersFromNto1\obj\Debug\net8.0\NumbersFromNto1.pdb
+C:\Users\ninag\RiderProjects\NumbersFromNto1\NumbersFromNto1\obj\Debug\net8.0\NumbersFromNto1.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\NumbersFromNto1\NumbersFromNto1\obj\Debug\net8.0\ref\NumbersFromNto1.dll
